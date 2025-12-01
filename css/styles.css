@@ -1,3 +1,10 @@
+:root {
+  --penguin-face: white;
+  --penguin-picorna: orange;
+  --penguin-skin: gray;
+}
+
+
 body{
     
 font-size: 16px;
